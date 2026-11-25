@@ -1,6 +1,7 @@
 # OmniBrowse
 
 A fast, minimal web browser for Windows that packs in as many useful features as possible without giving up performance. It runs on Microsoft Edge WebView2, so pages render exactly as they do in Edge and Chrome.
+<img width="1919" height="1005" alt="image" src="https://github.com/user-attachments/assets/7641fe0d-e3be-4460-9a20-14dfe7771c39" />
 
 ## Download
 
